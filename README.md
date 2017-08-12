@@ -1,2 +1,2 @@
-# JenkinsSandboxGit
-Sandbox for my own Jenkins tutorial
+# static
+static site test for jenkins
